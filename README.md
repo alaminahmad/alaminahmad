@@ -4,10 +4,7 @@
 
 I'm an Electrical Engineer skilled in solar system design and installation. I'm also proficient in Machine Learning, with expertise in Python, MATLAB, and ARDUINO. I completed the Applied Data Institute Equitech Futures program in 2022. Excited to collaborate on GitHub!
 
-Skills: PYTHON / MATLAB / EMBEDDED SYSTEMS /  
-
-- 🔭 I’m currently working on this page. 
-
+Skills: PYTHON / MATLAB / EMBEDDED SYSTEMS 
 
 
 
