@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is AL-AMIN
 #### I am Electrical Engineer
-![I am Electrical Engineer](myimage.img)
+![I am Electrical Engineer](myimage.jpg)
 
 
 I'm an Electrical Engineer skilled in solar system design and installation. I'm also proficient in Machine Learning, with expertise in Python, MATLAB, and ARDUINO. I completed the Applied Data Institute Equitech Futures program in 2022. Excited to collaborate on GitHub!
